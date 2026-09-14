@@ -1,2 +1,2 @@
-# vet-clinic-app
-Veterinary clinic web app
+# Event Platform
+Web platform for events.
